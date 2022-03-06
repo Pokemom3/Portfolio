@@ -1,0 +1,17 @@
+.HeaderContainer {
+  background-color: grey;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-self: center;
+}
+
+.HeaderText {
+  color: black;
+  font-size: 5rem;
+  font-stretch: extra-expanded;
+  display: flex;
+  align-items: center;
+  align-self: center;
+  font-family:Titillium Web;
+}
